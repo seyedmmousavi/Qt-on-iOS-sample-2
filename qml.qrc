@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PageManager.qml</file>
+        <file>MapPage.qml</file>
+        <file>SegmentedButton.qml</file>
+        <file>3DPage.qml</file>
+        <file>Scene.qml</file>
+        <file>phongalpha.frag</file>
+        <file>phongalpha.vert</file>
+        <file>Logo.qml</file>
+        <file>Qt_logo.obj</file>
+        <file>ListPage.qml</file>
+        <file>SimpleScene.qml</file>
+        <file>BasePage.qml</file>
+        <file>ParticleFlame.qml</file>
+        <file>FlamePage.qml</file>
+        <file>blur-circle.png</file>
+    </qresource>
+</RCC>
